@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TelStarBox</string>
+    <string name="str_day">日</string>
+    <string name="projector">投影仪</string>
+    <string name="network_setting">网络</string>
+    <string name="system_update">系统更新</string>
+    <string name="more_setting">更多设置</string>
+    <string name="file_manage">文件管理</string>
+    <string name="about_system">关于系统</string>
+    <string name="model_number">Model number :</string>
+    <string name="firmware_version">Android version :</string>
+    <string name="kernel_version">Kernel version :</string>
+    <string name="build_number">Build number : </string>
+    <string name="miracast_server_name">Device Name: </string>
+    <string name="top_about_system">关于系统</string>
+    <string name="top_network_manage">网络设置</string>
+    <string name="miracast_setting">Miracast</string>
+    <string name="media_center">媒体中心</string>
+
+    <string name="wifi">Wi-Fi</string>
+    <string name="ethernet">Ethernet</string>
+    <string name="no_network">Please choose Wi-Fi or Ethernet connection</string>
+    <string name="no_network_wifi_only"> No network connection</string>
+    <string name="wifi_closed"> Wi-Fi connection closed</string>
+    <string name="eth_connectd"> Ethernet connected</string>
+    <string name="ip_address"> IP Address:</string>
+    <string name="gateway"> Gateway</string>
+    <string name="subnet_mask"> Subnet Mask</string>
+    <string name="mac_address"> MAC address:</string>
+    <string name="wifi_connectting"> Wi-Fi Connecting ... </string>
+    <string name="wifi_input_password"> Input Password </string>
+    <string name="wifi_connect"> Connect Now </string>
+    <string name="wifi_ap_select"> Select your AP </string>
+    <string name="wifi_connected"> Wi-Fi connected </string>
+    <string name="wifi_name"> AP Name: </string>
+    <string name="wifi_level"> Wi-Fi Strength </string>
+    <string name="show_password">Show Password</string>
+    <string name="ethernet_connectting">Ethernet Connecting ...</string>
+    <string name="refresh_now">Refresh Access Point List ...</string>
+    <string name="password">Password</string>
+    <string name="password_length_error">password is wrong!</string>
+
+    <string name="class_apps">应用</string>
+    <string name="class_settings">设置</string>
+    <string name="class_helps">帮助</string>
+
+</resources>

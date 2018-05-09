@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TelStarBox</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="market_name">全家盒市场</string>
+    <string name="str_day">日</string>
+    <string name="marquee_str_a">全家盒市场是国内专门为智能电视和智能电视盒定制的一款应用市场，致力于为广大电视用户提供各种高质量的电视应用与电视游戏。</string>
+    <string name="projector">Projector</string>
+    <string name="network_setting">NetWork</string>
+    <string name="system_update">System Update</string>
+    <string name="more_setting">More Settings</string>
+    <string name="file_manage">File Manage</string>
+    <string name="about_system">About System</string>
+    <string name="model_number">Model number :</string>
+    <string name="firmware_version">Android version :</string>
+    <string name="kernel_version">Kernel version :</string>
+    <string name="build_number">Build number : </string>
+    <string name="miracast_server_name">Device Name: </string>
+    <string name="top_about_system">About Settings</string>
+    <string name="top_network_manage">NetWork Manage</string>
+    <string name="miracast_setting">Miracast</string>
+    <string name="media_center">Media Center</string>
+
+    <string name="wifi">Wi-Fi</string>
+    <string name="ethernet">Ethernet</string>
+    <string name="no_network">Please choose Wi-Fi or Ethernet connection</string>
+    <string name="no_network_wifi_only"> No network connection</string>
+    <string name="wifi_closed"> Wi-Fi connection closed</string>
+    <string name="eth_connectd"> Ethernet connected</string>
+    <string name="ip_address"> IP Address:</string>
+    <string name="gateway"> Gateway</string>
+    <string name="subnet_mask"> Subnet Mask</string>
+    <string name="mac_address"> MAC address:</string>
+    <string name="wifi_connectting"> Wi-Fi Connecting ... </string>
+    <string name="wifi_input_password"> Input Password </string>
+    <string name="wifi_connect"> Connect Now </string>
+    <string name="wifi_ap_select"> Select your AP </string>
+    <string name="wifi_connected"> Wi-Fi connected </string>
+    <string name="wifi_name"> AP Name: </string>
+    <string name="wifi_level"> Wi-Fi Strength </string>
+    <string name="show_password">Show Password</string>
+    <string name="ethernet_connectting">Ethernet Connecting ...</string>
+    <string name="refresh_now">Refresh Access Point List ...</string>
+    <string name="password">Password</string>
+    <string name="password_length_error">password is wrong!</string>
+    <string name="class_apps">Apps</string>
+    <string name="class_settings">Settings</string>
+    <string name="class_helps">Helps</string>
+
+</resources>

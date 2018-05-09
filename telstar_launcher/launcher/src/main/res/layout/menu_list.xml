@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.telstar.launcher.input.widget.PopListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lv_input_sources"
+    android:layout_width="300dp"
+    android:layout_height="500dp"
+    android:layout_alignParentRight="true"
+    android:layout_centerVertical="true"
+    android:divider="@color/transparent0"
+    android:dividerHeight="20dp"
+    android:footerDividersEnabled="false"
+    android:headerDividersEnabled="false"
+    android:listSelector="@color/transparent0"
+    android:scrollbars="none" >
+
+</com.telstar.launcher.input.widget.PopListView>

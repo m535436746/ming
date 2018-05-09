@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tv="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+  >
+    <reco.frame.tv.view.TvGridView 
+        android:id="@+id/tgv_imagelist"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/px1280"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/px20"
+        tv:cursorRes="@drawable/cursor_rectangle_boarder_white"
+        tv:itemWidth="@dimen/px360"
+        tv:itemHeight="@dimen/px230"
+        tv:columns="4"
+        tv:paddingLeft="@dimen/px80"
+        tv:paddingTop="@dimen/px20"
+        tv:initFocus="false"
+        tv:scale="1.1"
+        tv:spaceHori="@dimen/px100"
+        tv:spaceVert="@dimen/px40"
+        >
+    </reco.frame.tv.view.TvGridView> 
+
+</RelativeLayout>

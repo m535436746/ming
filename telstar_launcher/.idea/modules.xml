@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/launcher/launcher.iml" filepath="$PROJECT_DIR$/launcher/launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recoTvFrame/recoTvFrame.iml" filepath="$PROJECT_DIR$/recoTvFrame/recoTvFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recoTvFrame/recotvframe.iml" filepath="$PROJECT_DIR$/recoTvFrame/recotvframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/telstar_launcher.iml" filepath="$PROJECT_DIR$/telstar_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils/xutils.iml" filepath="$PROJECT_DIR$/xutils/xutils.iml" />
+    </modules>
+  </component>
+</project>

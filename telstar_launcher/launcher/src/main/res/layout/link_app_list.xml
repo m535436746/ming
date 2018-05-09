@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:tv="http://schemas.android.com/apk/res-auto"
+    android:layout_width="850dp"
+    android:layout_height="650dp">
+
+
+    <reco.frame.tv.view.TvGridView
+        android:id="@+id/applinkGridView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/px10"
+        android:layout_marginTop="@dimen/px25"
+        tv:cursorRes="@drawable/cursor_rectangle_boarder_orange"
+        tv:itemWidth="@dimen/px290"
+        tv:itemHeight="@dimen/px230"
+        tv:columns="3"
+        tv:paddingLeft="@dimen/px88"
+        tv:paddingTop="@dimen/px20"
+        tv:initFocus="false"
+        tv:scale="1.18"
+        tv:spaceHori="@dimen/px100"
+        tv:spaceVert="@dimen/px100"
+        >
+    </reco.frame.tv.view.TvGridView>
+
+</RelativeLayout>
